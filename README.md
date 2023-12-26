@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Keatonnagappa
-- 👀 I’m interested in learning as much as I can about programming and becoming an amazing programmer
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and C++
 
 <!---
 Keatonnagappa/Keatonnagappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
